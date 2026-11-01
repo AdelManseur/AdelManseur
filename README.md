@@ -4,7 +4,7 @@ I am a CS student and research debutant. Welcome to my GitHub profile!
 
 
 ## 📄 My Article
-* https://www.researchgate.net/publication/408277238_Ethical_Memory_Altering_in_Linux_-_A_Three-Part_Series_on_Memory_Altering_Part_1_Function_Hooking
+* You can read my [Article](https://www.researchgate.net/publication/408277238_Ethical_Memory_Altering_in_Linux_-_A_Three-Part_Series_on_Memory_Altering_Part_1_Function_Hooking): Ethical Memory Altering in Linux
 
 ## 🔬 Academic Profiles
 You can find my published articles, citations, and research papers here:
