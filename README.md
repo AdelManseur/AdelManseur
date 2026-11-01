@@ -8,7 +8,7 @@ I am a CS student and research debutant. Welcome to my GitHub profile!
 
 ## 🔬 Academic Profiles
 You can find my published articles, citations, and research papers here:
-* [Google Scholar Profile] (https://www.researchgate.net/profile/Adel-Manseur-2)
+* Check out my [ResearchGate Profile](https://www.researchgate.net/profile/Adel-Manseur-2)
 * https://scholar.google.com/citations?user=gfKj2aEAAAAJ&hl=en
 
 ## 🛠️ Skills
