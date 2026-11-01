@@ -2,6 +2,10 @@
 
 I am a CS student and research debutant. Welcome to my GitHub profile!
 
+
+## 📄 My Article
+* [[Read my latest research article on ResearchGate](PASTE_YOUR_SPECIFIC_RESEARCHGATE_ARTICLE_LINK_HERE)](https://www.researchgate.net/publication/408277238_Ethical_Memory_Altering_in_Linux_-_A_Three-Part_Series_on_Memory_Altering_Part_1_Function_Hooking)
+
 ## 🔬 Academic Profiles
 You can find my published articles, citations, and research papers here:
 * https://www.researchgate.net/profile/Adel-Manseur-2
