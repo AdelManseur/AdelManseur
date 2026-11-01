@@ -1,6 +1,6 @@
 # Hi there, I'm Adel Manseur 👋
 
-I am a researcher and developer focused on bridging academic insights with practical applications. Welcome to my GitHub profile!
+I am a CS student and research debutant. Welcome to my GitHub profile!
 
 ## 🔬 Academic Profiles
 You can find my published articles, citations, and research papers here:
