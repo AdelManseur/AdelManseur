@@ -1,6 +1,7 @@
 # Hi there, I'm Adel Manseur 👋
 
 I am a CS student and research debutant. Welcome to my GitHub profile!
+(I like understanding systems more than programming, endure me :))))
 
 
 ## 📄 My Article
