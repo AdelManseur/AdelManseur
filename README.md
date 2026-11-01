@@ -1,8 +1,7 @@
 # Hi there, I'm Adel Manseur 👋
 
-I am a CS student and research debutant. Welcome to my GitHub profile!
-(I like understanding systems more than programming, endure me :))))
-
+* I am a CS student and research debutant. Welcome to my GitHub profile!
+* I like understanding systems more than programming, endure me :)
 
 ## 📄 My Article
 * You can read my Article: [Ethical Memory Altering in Linux](https://www.researchgate.net/publication/408277238_Ethical_Memory_Altering_in_Linux_-_A_Three-Part_Series_on_Memory_Altering_Part_1_Function_Hooking)
