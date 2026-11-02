@@ -13,9 +13,11 @@ You can find my published articles, citations, and research papers here:
 * And my [Google Scholar Profile](https://scholar.google.com/citations?user=gfKj2aEAAAAJ&hl=en)
 
 ## 🛠️ Skills
-* **Programming Languages:** C, ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![Python](https://shields.io)
-* **Tools & Frameworks:** Git, React, Next.JS, LaTeX
-* **Research Domains:** Linux
+* **Programming Languages:** [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* **Databases:** MongoDB 	[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#), [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+* **Tools & Frameworks:** Git, React, Next.JS, [![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#), LaTeX
+* **Systems:** [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+* **Research Domains:** [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ## ⚙️ Preferences & Interests
 * **Research Focus:** Linux Systems
