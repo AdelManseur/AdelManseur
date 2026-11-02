@@ -13,7 +13,7 @@ You can find my published articles, citations, and research papers here:
 * And my [Google Scholar Profile](https://scholar.google.com/citations?user=gfKj2aEAAAAJ&hl=en)
 
 ## 🛠️ Skills
-* **Programming Languages:** C, JS, ![Python](https://shields.io)
+* **Programming Languages:** C, ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![Python](https://shields.io)
 * **Tools & Frameworks:** Git, React, Next.JS, LaTeX
 * **Research Domains:** Linux
 
